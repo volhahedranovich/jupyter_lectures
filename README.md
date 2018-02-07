@@ -1,6 +1,6 @@
 # Machine Learning Lecture Course
 
-*Lecturer: Volha Hedrnovich*
+*Lecturer: Volha Hedranovich*
 
 - email: <hiedranovich@rocketscience.ai>
 - github: [volhahedranovich](http://github.com/volhahedranovich)
