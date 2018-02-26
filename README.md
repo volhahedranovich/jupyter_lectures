@@ -22,4 +22,4 @@ You can clone the material in this tutorial by using the git address:
 Or there is a link above to download the contents of this repository as a zip file.  
 
 ## Notebook Listing
-You can [view the tutorial materials](http://nbviewer.jupyter.org/github/volhahedranovich/jupyter_lectures/blob/master/notebooks) using the nbviewer service.
+You can [view the tutorial materials](http://nbviewer.jupyter.org/github/volhahedranovich/jupyter_lectures/tree/master/) using the nbviewer service.
