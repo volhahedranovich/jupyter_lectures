@@ -1,6 +1,7 @@
 # Machine Learning Lecture Course
 
 *Lecturers:*
+
 Volha Hedranovich
 
 - email: <hiedranovich@rocketscience.ai>
