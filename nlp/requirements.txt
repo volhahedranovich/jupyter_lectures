@@ -65,7 +65,7 @@ python-dateutil==2.6.1
 pytz==2017.3
 pywinpty==0.5
 pywsd==1.0.4
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.3
 qtconsole==4.3.1
 regex==2017.4.5
