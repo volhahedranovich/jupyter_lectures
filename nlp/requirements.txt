@@ -50,7 +50,7 @@ parso==0.1.1
 path.py==10.5
 pathlib==1.0.1
 pickleshare==0.7.4
-Pillow==5.0.0
+Pillow==9.0.1
 plac==0.9.6
 preshed==1.0.0
 prompt-toolkit==1.0.15
