@@ -32,7 +32,7 @@ jupyter-console==5.2.0
 jupyter-core==4.4.0
 Keras==2.0.9
 langdetect==1.0.7
-mako==1.0.7
+mako==1.2.2
 MarkupSafe==1.0
 matplotlib==2.1.2
 mistune==0.8.3
